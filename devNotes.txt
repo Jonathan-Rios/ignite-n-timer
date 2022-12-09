@@ -1,0 +1,36 @@
+Criando o projeto
+  npm create vite@latest
+  Need to install the following packages:
+    create-vite@3.2.1
+  Ok to proceed? (y) y
+  ✔ Project name: … ignite-timer
+  ✔ Select a framework: › React
+  ✔ Select a variant: › TypeScript
+
+  ➜ npm i styled-components
+  ➜ npm i @types/styled-components -D
+
+  ➜ npm i eslint -D
+  ➜ npm i @rocketseat/eslint-config -D
+
+  ➜ npm i react-router-dom
+
+  ➜ npm i phosphor-react
+
+  ➜ npm i react-hook-form
+  ➜ npm i zod
+  ➜ npm i @hookform/resolvers
+
+  ➜ npm i date-fns
+
+  //Flex 1 é um atalho para 3 propriedades flex, flex-grow, flex-shrink, flex-basis
+  flex-grow - Permito meu componente crescer do tamanho original dele?  1[Sim] 0[Não]
+  flex-shrink - Permito meu componente diminuir do tamanho original dele?  1[Sim] 0[Não]
+  flex-basis - Qual o tamanho ideal dele?
+
+
+
+  //Form - Controlled / Uncontrolled
+   Controlled - Quando estamos monitorando os valores do campo em estados.
+
+   Uncontrolled
