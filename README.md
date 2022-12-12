@@ -125,7 +125,9 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) pa
   Uncontrolled - Utilização mais "solta", referenciando por names e obtendo o valor no momento da necessidade.
 ```
 
-<h3>Utilização do do as const, para garantir que o valor seja exatamente aquela string (ou outro valor desejado)</h3>
+<h3>Utilização do do as const</h3>
+
+No exemplo abaixo, era desejado que só pudesse ser aquelas cores fixas para os status, e caso não informasse nada seria dado a tipagem como "string" não sendo específica, ai veio a entrada do "as const", garantindo que o valor seja exatamente o desejado.
 
 <h4><strong>Não utilizando</strong></h4>
 
