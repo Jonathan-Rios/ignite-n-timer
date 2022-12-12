@@ -128,12 +128,15 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) pa
 <h3>Conceitos de formulário Controlled e Uncontrolled</h3>
 
 <h4><strong>Não utilizando</strong></h4>
+
 ![cover](.github/example_with_as_const.png?style=flat)
 
 <h4><strong>Utilizando</strong></h4>
+
 ![cover](.github/example_without_as_const.png?style=flat)
 
 <h4><strong>Usando para fornecer o type</strong></h4>
+
 ![cover](.github/bonus_type_example_as_const.png?style=flat)
  
 
