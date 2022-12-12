@@ -36,7 +36,7 @@ export const HistoryList = styled.div`
         padding-left: 1.5rem;
       }
 
-      &:first-child {
+      &:last-child {
         border-top-right-radius: 8px;
         padding-right: 1.5rem;
       }
@@ -54,7 +54,7 @@ export const HistoryList = styled.div`
         width: 50%;
       }
 
-      &:first-child {
+      &:last-child {
         padding-right: 1.5rem;
       }
     }
@@ -62,8 +62,8 @@ export const HistoryList = styled.div`
 `
 
 const STATUS_COLORS = {
-  green: 'yellow-500',
-  red: 'yellow-500',
+  green: 'green-500',
+  red: 'red-500',
   yellow: 'yellow-500',
 } as const
 

@@ -22,15 +22,3 @@ Criando o projeto
   ➜ npm i @hookform/resolvers
 
   ➜ npm i date-fns
-
-  //Flex 1 é um atalho para 3 propriedades flex, flex-grow, flex-shrink, flex-basis
-  flex-grow - Permito meu componente crescer do tamanho original dele?  1[Sim] 0[Não]
-  flex-shrink - Permito meu componente diminuir do tamanho original dele?  1[Sim] 0[Não]
-  flex-basis - Qual o tamanho ideal dele?
-
-
-
-  //Form - Controlled / Uncontrolled
-   Controlled - Quando estamos monitorando os valores do campo em estados.
-
-   Uncontrolled
